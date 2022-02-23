@@ -16,7 +16,7 @@ namespace practicaPOO703
         }
 
        static void Hola() {
-            Console.WriteLine("Hola: ");
+            Console.WriteLine("Hola ");
         }
     }
     
