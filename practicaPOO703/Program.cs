@@ -8,5 +8,9 @@ namespace practicaPOO703
         {
             Console.WriteLine("Bienvenido a OASIS ");
         }
+
+       static void Hola() {
+            Console.WriteLine("Hola: ");
+        }
     }
 }
