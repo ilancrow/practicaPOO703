@@ -6,7 +6,7 @@ namespace practicaPOO703
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bienvenido a OASIS ");
         }
     }
 }
